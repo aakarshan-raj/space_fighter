@@ -1,11 +1,5 @@
-""" Credit
-Project By:Aakarshan Raj
-
-Class 12  section 'A'
-
-
-For C.S project of K.V bailey road session 2019-2020
-
+""" 
+By:Aakarshan Raj
 
 photo and video credits's
 flaticon.com
